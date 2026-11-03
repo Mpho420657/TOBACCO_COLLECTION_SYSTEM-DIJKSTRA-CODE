@@ -1,0 +1,9 @@
+# DD and EE are joined to each other but not to the floor
+NODE AA Alpha FLOOR
+NODE BB Bravo
+NODE CC Charlie
+NODE DD Delta
+NODE EE Echo
+EDGE AA BB 10
+EDGE BB CC 20.5
+EDGE DD EE 7

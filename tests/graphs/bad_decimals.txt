@@ -1,0 +1,3 @@
+NODE AA Alpha FLOOR
+NODE BB Bravo
+EDGE AA BB 0.25

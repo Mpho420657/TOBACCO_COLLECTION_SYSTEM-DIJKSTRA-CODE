@@ -1,0 +1,3 @@
+NODE AA Alpha
+NODE BB Bravo
+EDGE AA BB 3
