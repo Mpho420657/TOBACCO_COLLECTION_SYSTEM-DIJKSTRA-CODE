@@ -14,6 +14,7 @@ and the nearest auction floor for any district.
 
 | File | What it does |
 |---|---|
+| `index.html` | The web page (live version). It runs `dijkstra.js` in the browser, so nothing needs to be installed |
 | `dijkstra.js` | The algorithm: min-heap priority queue, `buildGraph`, `dijkstra`, `shortestPath`, `nearestFloor` |
 | `graph-data.js` | The 22 districts, 27 roads with distances, and the 3 auction floors |
 | `cli.js` | Command line program |
@@ -52,4 +53,8 @@ Route: BA -> MA -> ZA -> CR -> BT
 - If two roads join the same two districts, the shorter one is kept.
 - Running time is O((V + E) log V) because of the priority queue.
 
-Live version: [insert link when deployed]
+## Live version (no installation needed)
+
+Open this link in any browser: https://mpho420657.github.io/tobacco_collection_system-dijkstra-code/
+
+Choose a start and an end district and click **Find shortest route**. The page shows the distance, the route, the nearest auction floor and every step of the algorithm. The **Try your own graph** tab lets you test any graph, including special cases such as no route or a negative distance.
