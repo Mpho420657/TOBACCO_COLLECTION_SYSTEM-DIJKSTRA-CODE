@@ -1,2 +1,0 @@
-NODE AA Alpha FLOOR
-EDGE AA AA 5

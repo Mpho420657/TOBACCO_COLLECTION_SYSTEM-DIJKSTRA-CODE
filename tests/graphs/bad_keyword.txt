@@ -1,2 +1,0 @@
-NODE AA Alpha FLOOR
-ROAD AA BB 5

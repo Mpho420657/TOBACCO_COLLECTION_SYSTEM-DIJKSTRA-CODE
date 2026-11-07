@@ -1,4 +1,0 @@
-# Smallest possible graph: two nodes and one road
-NODE AA Alpha FLOOR
-NODE BB Bravo
-EDGE AA BB 12.5

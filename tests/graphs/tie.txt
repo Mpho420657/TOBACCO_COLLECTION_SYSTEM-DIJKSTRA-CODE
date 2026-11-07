@@ -1,9 +1,0 @@
-# From SS there are two routes of exactly 10.0 km to the floor FF
-NODE SS Start
-NODE AA Alpha
-NODE BB Bravo
-NODE FF Final FLOOR
-EDGE SS AA 5
-EDGE AA FF 5
-EDGE SS BB 4
-EDGE BB FF 6
