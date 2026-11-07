@@ -1,0 +1,11 @@
+{
+  "name": "tobacco-dijkstra",
+  "version": "1.0.0",
+  "description": "Dijkstra's algorithm on the tobacco collection network of central and southern Malawi",
+  "main": "dijkstra.js",
+  "scripts": {
+    "test": "node tests.js",
+    "start": "node cli.js"
+  },
+  "license": "MIT"
+}
